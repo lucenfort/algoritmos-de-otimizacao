@@ -1,4 +1,4 @@
-from opt2 import *
+from opt_utils import *
 
 # variáveis do problema
 pessoas = [
